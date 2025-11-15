@@ -1,4 +1,4 @@
-'m Nail Dehmej 👋
+# Hey, I'm Nail Dehmej 👋
 > Cybersecurity enthusiast · Low-level developer · Automation architect — crafting secure, elegant chaos.
 
 <p align="center">
@@ -18,7 +18,7 @@ Nail Dehmej | @Cornedru
 - 🔐 Specializing in: Red Team, Pentesting, PKI, OSINT
 - 💻 Languages: C, C++, Python, Bash
 - 🛡️ Interests: CTFs, Hack The Box, Reverse Engineering
-- 🤖 Automating security workflows 
+- 🤖 Automating security workflows with GitHub Actions
 ```
 
 ---
@@ -62,16 +62,28 @@ Nail Dehmej | @Cornedru
 
 <div align="center">
 
-<a href="https://github.com/Cornedru/minishell">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cornedru&repo=minishell&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<a href="https://github.com/Cornedru/Minishell">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cornedru&repo=Minishell&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </a>
 
-<a href="https://github.com/Cornedru/mini_serv">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cornedru&repo=mini_serv&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<a href="https://github.com/Cornedru/Cube_3D">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cornedru&repo=Cube_3D&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </a>
 
-<a href="https://github.com/Cornedru/cub3D">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cornedru&repo=cub3D&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<a href="https://github.com/Cornedru/Philo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cornedru&repo=Philo&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/Cornedru/Libft">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cornedru&repo=Libft&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/Cornedru/Mini-Chill">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cornedru&repo=Mini-Chill&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/Cornedru/CTF">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cornedru&repo=CTF&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </a>
 
 </div>
