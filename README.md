@@ -241,7 +241,7 @@ graph LR
 ## 💭 Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=I%20break%20systems%20to%20build%20better%20ones.%20I%20automate%20security%20like%20a%20hacker,%20and%20document%20like%20an%20artist.&author=Nail%20Dehmej" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=I%20break%20systems%20to%20build%20better%20ones.%20I%20automate%20security%20like%20a%20hacker,%20and%20document%20like%20an%20artist.&author=Cornedru" />
 </p>
 
 ---
