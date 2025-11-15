@@ -28,7 +28,7 @@ Nail Dehmej | @Cornedru
 - 🔐 Specializing in: Red Team, Pentesting, PKI, OSINT
 - 💻 Languages: C, C++, Python, Bash
 - 🛡️ Interests: CTFs, Hack The Box, Reverse Engineering
-- 🤖 Automating security workflows with GitHub Actions
+- 🤖 Automating security workflows 
 ```
 
 ---
