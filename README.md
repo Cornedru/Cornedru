@@ -20,9 +20,9 @@
 **Security-minded system developer** studying at **École 42**, focused on offensive security, low-level programming, and automation. I build tools that break things *elegantly* — then secure them properly.
 
 ```bash
-$ cat /home/nail/.about
+$ cat /home/.about
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-👤 Nail Dehmej | @Cornedru
+👤 @Cornedru
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎓 École 42 · Cybersecurity & System Development
 🔐 Red Team | Pentesting | PKI | OSINT
