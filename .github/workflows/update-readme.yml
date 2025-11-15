@@ -1,0 +1,23 @@
+name: Update README widgets
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Update date placeholder
+      run: |
+        DATE="$(date -u '+%Y-%m-%d %H:%M UTC')"
+        sed -i "s|<!--SHOW_DATE-->|$DATE|g" README.md
+
+    - name: Commit changes
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "chore: update README timestamp"
+        file_pattern: README.md
