@@ -1,107 +1,177 @@
-# Hi, je suis Cornedru 👋  
-> hacker · tech visionary · design-focused · mentor — building shiny, useful chaos.
+# Hey, I'm Nail Dehmej 👋
+> Cybersecurity enthusiast · Low-level developer · Automation architect — crafting secure, elegant chaos.
 
-<!-- BANNER -->
 <p align="center">
-  <pre align="center">                                                                                               
-      ,ad8888ba,                                                              88                           
-     d8"'    `"8b                                                             88                           
-    d8'                                                                       88                           
-    88              ,adPPYba,   8b,dPPYba,  8b,dPPYba,    ,adPPYba,   ,adPPYb,88  8b,dPPYba,  88       88  
-    88             a8"     "8a  88P'   "Y8  88P'   `"8a  a8P_____88  a8"    `Y88  88P'   "Y8  88       88  
-    Y8,            8b       d8  88          88       88  8PP"""""""  8b       88  88          88       88  
-     Y8a.    .a8P  "8a,   ,a8"  88          88       88  "8b,   ,aa  "8a,   ,d88  88          "8a,   ,a88  
-      `"Y8888Y"'    `"YbbdP"'   88          88       88   `"Ybbd8"'   `"8bbdP"Y8  88           `"YbbdP'Y8
-  </pre>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hacking+systems.+Building+tools.;École+42+%7C+Cybersecurity+%26+System+Dev;C+%2F+Python+%2F+Bash+%2F+Automation;Red+Team+%7C+OSINT+%7C+Pentesting" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👁️‍🗨 Mini-bio
-Je construis des outils en C / C++ / Bash / Python.  
-J'automatise tout avec GitHub Actions.  
-Je transforme n'importe quel README en dashboard visuel, glitchy et élégant.  
-Je mélange : *low-level engineering + design-thinking + un soupçon de chaos créatif.*
+## 👁️‍🗨️ About Me
+
+**Security-minded system developer** studying at **École 42 Mulhouse**, focused on offensive security, low-level programming, and automation. I build tools that break things *elegantly* — then secure them properly.
+
+```bash
+$ whoami
+Nail Dehmej | @Cornedru
+- 🎓 École 42 · Cybersecurity & System Development
+- 🔐 Specializing in: Red Team, Pentesting, PKI, OSINT
+- 💻 Languages: C, C++, Python, Bash
+- 🛡️ Interests: CTFs, Hack The Box, Reverse Engineering
+- 🤖 Automating security workflows with GitHub Actions
+```
 
 ---
 
-## 🔧 Tech Stack
-<p>
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-automation-2088ff?logo=githubactions&logoColor=white" /> 
-  <img alt="C" src="https://img.shields.io/badge/C-systems-00599C?logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-performance-00599C?logo=c%2B%2B&logoColor=white" />
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-scripting-4EAA25?logo=gnu-bash&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-data-3776AB?logo=python&logoColor=white" />
+## 🔧 Tech Arsenal
+
+<p align="center">
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<p align="center">
+  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
 ---
 
-## 📊 Stats & Activity
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cornedru&show_icons=true&theme=radical&hide_border=true" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cornedru&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cornedru&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cornedru&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cornedru&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Cornedru&theme=react-dark&area=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cornedru&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
 </p>
 
 ---
 
-## ✨ Highlighted projects
+## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/Cornedru/minishell">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cornedru&repo=minishell&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cornedru&repo=minishell&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </a>
 
 <a href="https://github.com/Cornedru/mini_serv">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cornedru&repo=mini_serv&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cornedru&repo=mini_serv&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </a>
 
 <a href="https://github.com/Cornedru/cub3D">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cornedru&repo=cub3D&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cornedru&repo=cub3D&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </a>
 
 </div>
 
 ---
 
-## 🧩 What I build
-- **Low-level tooling** : C / C++ / syscalls / parsing / memory-safe patterns  
-- **Automation pipelines** boostés à l'IA (GitHub Actions avancées)  
-- **Security stuff** : Wi-Fi auditing, Red Team tooling, OSINT automation  
-- **Creative-dev** : dashboards, glitch aesthetics, visuals for documentation
+## 🛡️ Security & Development Focus
+
+```c
+// My approach to security and development
+typedef struct s_skills {
+    char    *offensive_security[5];
+    char    *defensive_security[4];
+    char    *dev_stack[6];
+    char    *automation[3];
+} t_skills;
+
+t_skills my_expertise = {
+    .offensive_security = {
+        "Penetration Testing (Network, WiFi, Linux)",
+        "CTF Challenges & Exploitation",
+        "Memory Analysis & C Vulnerabilities",
+        "OSINT Automation & Reconnaissance",
+        "Red Team Tooling"
+    },
+    .defensive_security = {
+        "PKI & Certificate Management",
+        "Secure Coding Practices",
+        "System Hardening & Auditing",
+        "Network Architecture Security"
+    },
+    .dev_stack = {
+        "Low-level C/C++ Development",
+        "Python Scripting & Automation",
+        "Bash & Shell Scripting",
+        "Network Programming (Sockets, TCP/IP)",
+        "System Programming (Syscalls, Processes)",
+        "Git & Version Control"
+    },
+    .automation = {
+        "GitHub Actions CI/CD",
+        "Security Workflow Automation",
+        "Custom Tooling & Scripts"
+    }
+};
+```
 
 ---
 
-## 🎯 Goals
-- Construire des projets *clean, performants, visuellement sexy*  
-- Partager, mentorer, documenter avec un vrai sens du design  
-- Hacker, tester, explorer des concepts tech borderline
+## 🎯 Current Goals
+
+- 🔍 **Mastering offensive security** through CTFs and Hack The Box
+- 🏗️ **Building security tools** for penetration testing and OSINT
+- 📚 **Deep diving into** PKI, cryptography, and secure architectures
+- 🤝 **Contributing to** open-source security projects
+- 📝 **Documenting** my learning journey and creating tutorials
 
 ---
 
-## 🛠 Automation
-Ce profil utilise :
-- GitHub Readme Stats  
-- Activity Graph  
-- Streak Stats  
-- Badges via Shields.io  
-- Un GitHub Action pour mettre à jour automatiquement la date du README  
-- Un thème visuel "auto", glitch + studio créatif
+## 🧩 What I Build
+
+| Category | Focus Areas |
+|----------|-------------|
+| **🔐 Security Tools** | Wi-Fi auditing, network scanners, OSINT automation, exploit PoCs |
+| **⚙️ Low-level Systems** | C/C++ tools, syscalls, parsing engines, memory-safe patterns |
+| **🤖 Automation** | GitHub Actions workflows, CI/CD pipelines, security automation |
+| **🎨 Creative Dev** | Terminal UIs, data visualization, documentation with style |
 
 ---
 
-## ⚡ Signature line
-> "I design systems like a hacker, and docs like a creative studio."
+## 📫 Connect With Me
 
 <p align="center">
-  <sub>Last automated update: <!--SHOW_DATE--></sub>
+  <a href="mailto:Naildehmej68@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Cornedru">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/nail-dehmej">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+## ⚡ Signature
+
+> **"I break systems to build better ones. I automate security like a hacker, and document like an artist."**
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Cornedru&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+---
+
+<p align="center">
+  <sub>🔒 Studying at École 42 | 🛡️ Aspiring Red Team Operator | 💻 Open to internships in cybersecurity</sub>
+</p>
+
+<p align="center">
+  <sub>Last updated: 2025 | Built with 💙 and ☕</sub>
 </p>
