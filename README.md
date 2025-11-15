@@ -20,7 +20,7 @@
 **Security-minded system developer** studying at **École 42**, focused on offensive security, low-level programming, and automation. I build tools that break things *elegantly* — then secure them properly.
 
 ```bash
-$ cat /home/.about
+$ cat /home/Cornedru/.about
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 👤 @Cornedru
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -28,7 +28,6 @@ $ cat /home/.about
 🔐 Red Team | Pentesting | PKI | OSINT
 💻 C | C++ | Python | Bash
 🛡️ CTFs | Hack The Box | Reverse Engineering
-🤖 GitHub Actions | CI/CD | Automation
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
