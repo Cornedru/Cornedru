@@ -2,7 +2,17 @@
 > Cybersecurity enthusiast · Low-level developer · Automation architect — crafting secure, elegant chaos.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hacking+systems.+Building+tools.;École+42+%7C+Cybersecurity+%26+System+Dev;C+%2F+Python+%2F+Bash+%2F+Automation;Red+Team+%7C+OSINT+%7C+Pentesting" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hacking+systems.+Building+tools.;École+42+%7C+Cybersecurity+%26+System+Dev;C+%2F+Python+%2F+Bash+%2F+Automation;Red+Team+%7C+OSINT+%7C+Pentesting" alt="Typing SVG" />
+</p>
+
+---
+
+<p align="center">
+  <b>🔐 Cybersecurity Student @ École 42 Mulhouse | 💻 Low-level Developer | 🤖 Automation Architect</b>
+</p>
+
+<p align="center">
+  <em>"Breaking systems elegantly, then securing them properly"</em>
 </p>
 
 ---
@@ -92,43 +102,38 @@ Nail Dehmej | @Cornedru
 
 ## 🛡️ Security & Development Focus
 
-```c
-// My approach to security and development
-typedef struct s_skills {
-    char    *offensive_security[5];
-    char    *defensive_security[4];
-    char    *dev_stack[6];
-    char    *automation[3];
-} t_skills;
+### 🔴 Offensive Security
+```bash
+⚔️  Penetration Testing (Network, WiFi, Linux)
+🎯  CTF Challenges & Exploitation
+🧠  Memory Analysis & C Vulnerabilities
+🔍  OSINT Automation & Reconnaissance
+🚩  Red Team Tooling
+```
 
-t_skills my_expertise = {
-    .offensive_security = {
-        "Penetration Testing (Network, WiFi, Linux)",
-        "CTF Challenges & Exploitation",
-        "Memory Analysis & C Vulnerabilities",
-        "OSINT Automation & Reconnaissance",
-        "Red Team Tooling"
-    },
-    .defensive_security = {
-        "PKI & Certificate Management",
-        "Secure Coding Practices",
-        "System Hardening & Auditing",
-        "Network Architecture Security"
-    },
-    .dev_stack = {
-        "Low-level C/C++ Development",
-        "Python Scripting & Automation",
-        "Bash & Shell Scripting",
-        "Network Programming (Sockets, TCP/IP)",
-        "System Programming (Syscalls, Processes)",
-        "Git & Version Control"
-    },
-    .automation = {
-        "GitHub Actions CI/CD",
-        "Security Workflow Automation",
-        "Custom Tooling & Scripts"
-    }
-};
+### 🟢 Defensive Security
+```bash
+🔐  PKI & Certificate Management
+✅  Secure Coding Practices
+🛡️  System Hardening & Auditing
+🏗️  Network Architecture Security
+```
+
+### 💻 Development Stack
+```bash
+⚡  Low-level C/C++ Development
+🐍  Python Scripting & Automation
+📜  Bash & Shell Scripting
+🌐  Network Programming (Sockets, TCP/IP)
+⚙️  System Programming (Syscalls, Processes)
+🔧  Git & Version Control
+```
+
+### 🤖 Automation & DevOps
+```bash
+🚀  GitHub Actions CI/CD
+🔄  Security Workflow Automation
+🛠️  Custom Tooling & Scripts
 ```
 
 ---
