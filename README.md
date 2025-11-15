@@ -17,7 +17,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-**Security-minded system developer** studying at **École 42 Mulhouse**, focused on offensive security, low-level programming, and automation. I build tools that break things *elegantly* — then secure them properly.
+**Security-minded system developer** studying at **École 42**, focused on offensive security, low-level programming, and automation. I build tools that break things *elegantly* — then secure them properly.
 
 ```bash
 $ cat /home/nail/.about
