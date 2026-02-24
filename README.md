@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:001a2e,100:00D9FF&height=200&section=header&text=Cornedrue&fontSize=80&fontColor=00D9FF&animation=fadeIn&fontAlignY=55&stroke=00D9FF&strokeWidth=2" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Breaking+systems+to+understand+them.;Building+tools+that+matter.;École+42+%7C+Cybersecurity+%26+Low-level+Dev;Red+Team+%7C+Reverse+Engineering+%7C+OSINT;C+%2F+Python+%2F+Bash+—+no+training+wheels." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Breaking+systems+to+understand+them.;Building+tools+that+matter.;École+42+%7C+Cybersecurity+%26+Low-level+Dev;Red+Team+%7C+Reverse+Engineering+%7C+OSINT;C+%2F+Python+%2F+Bash+—+no+training+wheels." alt="" />
 
 <br/>
 
