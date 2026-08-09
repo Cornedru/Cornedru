@@ -27,7 +27,7 @@
 ║  🎓  École 42 — Cybersecurity        ║
 ║  🔐  Red Team  |  Pentest  |  OSINT  ║
 ║  💻  C  |  C++  |  Python  |  Bash   ║
-║  🛡️  CTFs  |  HTB  |  Rev. Eng.     ║
+║  🛡️  CTFs  |  HTB  |  Rev. Eng.      ║
 ║  🌍  Based in France                 ║
 ╚══════════════════════════════════════╝
 ```
