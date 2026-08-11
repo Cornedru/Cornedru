@@ -24,15 +24,14 @@
 ║  ~/Cornedru/.profile                 ║
 ╠══════════════════════════════════════╣
 ║  👤  Cornedru                        ║
-║  🎓  École 42 — Cybersecurity        ║
+║  🎓   42 — Cybersecurity             ║
 ║  🔐  Red Team  |  Pentest  |  OSINT  ║
 ║  💻  C  |  C++  |  Python  |  Bash   ║
 ║  🛡️  CTFs  |  HTB  |  Rev. Eng.      ║
-║  🌍  Based in France                 ║
 ╚══════════════════════════════════════╝
 ```
 
-**Security-minded system developer** studying at **École 42**. I live at the intersection of offensive security and low-level programming — building tools that crack things open, understanding why they break, then hardening them properly.
+**Security-minded system developer** studying at **42**. I live at the intersection of offensive security and low-level programming — building tools that crack things open, understanding why they break, then hardening them properly.
 
 > *"I break systems to build better ones."*
 
