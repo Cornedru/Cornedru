@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Cornedru — Offensive security and low-level development">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Cornedru — Reverse engineering, bug bounty, Rust">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#070A0F"/>
@@ -64,8 +64,8 @@
     <g transform="translate(72 0)">
       <text class="mono tag fade d1" x="0" y="96"><tspan class="cm">// </tspan><tspan class="kw">whoami</tspan></text>
       <text class="mono name fade d2" x="-4" y="178">Cornedru<tspan class="cursor" dx="8">_</tspan></text>
-      <text class="mono tag fade d3" x="0" y="224"><tspan class="kw">const</tspan> focus = [<tspan class="str">"offensive security"</tspan>, <tspan class="str">"low-level dev"</tspan>, <tspan class="str">"reverse engineering"</tspan>];</text>
-      <text class="mono tag fade d4" x="0" y="256"><tspan class="cm">// École 42 · Red Team · CTF · C / Python / Bash</tspan></text>
+      <text class="mono tag fade d3" x="0" y="224"><tspan class="kw">const</tspan> focus = [<tspan class="str">"reverse engineering"</tspan>, <tspan class="str">"bug bounty"</tspan>, <tspan class="str">"rust"</tspan>];</text>
+      <text class="mono tag fade d4" x="0" y="256"><tspan class="cm">// École 42 · Bug bounty hunter · Rust / Go / C / Python</tspan></text>
     </g>
 
     <rect x="0" y="316" width="1200" height="4" fill="url(#accent)"/>

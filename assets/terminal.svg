@@ -32,18 +32,18 @@
     <g class="line" style="animation-delay:1.3s">
       <text class="mono" x="20" y="104"><tspan class="k">name</tspan><tspan class="v">      = </tspan><tspan class="s">"Cornedru"</tspan></text>
       <text class="mono" x="20" y="128"><tspan class="k">school</tspan><tspan class="v">    = </tspan><tspan class="s">"École 42"</tspan></text>
-      <text class="mono" x="20" y="152"><tspan class="k">track</tspan><tspan class="v">     = </tspan><tspan class="s">"Cybersecurity · System dev"</tspan></text>
-      <text class="mono" x="20" y="176"><tspan class="k">langs</tspan><tspan class="v">     = [</tspan><tspan class="s">"C"</tspan><tspan class="v">, </tspan><tspan class="s">"C++"</tspan><tspan class="v">, </tspan><tspan class="s">"Python"</tspan><tspan class="v">, </tspan><tspan class="s">"Bash"</tspan><tspan class="v">, </tspan><tspan class="s">"asm"</tspan><tspan class="v">]</tspan></text>
-      <text class="mono" x="20" y="200"><tspan class="k">interests</tspan><tspan class="v"> = [</tspan><tspan class="s">"red team"</tspan><tspan class="v">, </tspan><tspan class="s">"pwn"</tspan><tspan class="v">, </tspan><tspan class="s">"reverse"</tspan><tspan class="v">, </tspan><tspan class="s">"osint"</tspan><tspan class="v">]</tspan></text>
-      <text class="mono" x="20" y="224"><tspan class="k">status</tspan><tspan class="v">    = </tspan><tspan class="s">"open to security internships"</tspan></text>
+      <text class="mono" x="20" y="152"><tspan class="k">track</tspan><tspan class="v">     = </tspan><tspan class="s">"Cybersecurity · Reverse engineering"</tspan></text>
+      <text class="mono" x="20" y="176"><tspan class="k">langs</tspan><tspan class="v">     = [</tspan><tspan class="s">"Rust"</tspan><tspan class="v">, </tspan><tspan class="s">"Go"</tspan><tspan class="v">, </tspan><tspan class="s">"C"</tspan><tspan class="v">, </tspan><tspan class="s">"Python"</tspan><tspan class="v">, </tspan><tspan class="s">"JS"</tspan><tspan class="v">]</tspan></text>
+      <text class="mono" x="20" y="200"><tspan class="k">interests</tspan><tspan class="v"> = [</tspan><tspan class="s">"bug bounty"</tspan><tspan class="v">, </tspan><tspan class="s">"js vms"</tspan><tspan class="v">, </tspan><tspan class="s">"anti-bot"</tspan><tspan class="v">, </tspan><tspan class="s">"pwn"</tspan><tspan class="v">]</tspan></text>
+      <text class="mono" x="20" y="224"><tspan class="k">status</tspan><tspan class="v">    = </tspan><tspan class="s">"open to security roles"</tspan></text>
     </g>
     <!-- line 2 -->
     <g class="line" style="animation-delay:2.1s">
-      <text class="mono" x="20" y="262"><tspan class="p">❯</tspan> <tspan class="cmd">./break --then-fix</tspan></text>
+      <text class="mono" x="20" y="262"><tspan class="p">❯</tspan> <tspan class="cmd">./reverse --target web-protections</tspan></text>
       <rect class="cover" x="40" y="246" width="600" height="22" style="animation-delay:2.1s"/>
     </g>
     <g class="line" style="animation-delay:3.1s">
-      <text class="mono" x="20" y="290"><tspan class="ok">✔</tspan> <tspan class="v">systems understood · tools shipped · defenses hardened</tspan></text>
+      <text class="mono" x="20" y="290"><tspan class="ok">✔</tspan> <tspan class="v">obfuscation peeled · logic reimplemented · reports filed</tspan></text>
       <text class="mono" x="20" y="320"><tspan class="p">❯</tspan> <tspan class="cur">▍</tspan></text>
     </g>
   </g>
