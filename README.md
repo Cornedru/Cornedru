@@ -25,9 +25,9 @@
 
 **Reverse engineer** and **bug bounty hunter**, trained at **École 42**.
 
-My thing is taking apart the protections that sit between a browser and a server: obfuscated JavaScript, custom virtual machines, fingerprinting and anti-bot layers. I rebuild the logic in **Rust** or **Go**, then report what breaks.
+My thing is taking apart the protections that sit between a browser and a server: obfuscated JavaScript, custom virtual machines, fingerprinting and challenge layers. I rebuild the logic in **Rust** or **Go**, then report what breaks.
 
-- 🔬 Reverse engineering of client-side protections (CAPTCHA & anti-bot services, among others)
+- 🔬 Reverse engineering of client-side protections on large-scale web services
 - 🐛 Bug bounty on large-scale web services
 - 🦀 Rust for the heavy lifting, Go for network tooling, C from 42
 - 🧪 HackTheBox & CTFs on the side
@@ -87,7 +87,7 @@ My thing is taking apart the protections that sit between a browser and a server
 <td width="33%" valign="top">
 
 ### 🐛 Bug bounty
-**Targets** · CAPTCHA & anti-bot services, large web platforms<br/>
+**Targets** · large web platforms and the security layers in front of them<br/>
 **Infra** · origin exposure behind CDN / WAF, misconfigurations<br/>
 **Process** · PoC, impact write-up, responsible disclosure
 
@@ -134,7 +134,7 @@ My thing is taking apart the protections that sit between a browser and a server
 ```diff
   2026 → 2027
 + [done]  École 42 core curriculum
-+ [done]  First bug bounty reports on anti-bot / CAPTCHA services
++ [done]  First bug bounty reports on large-scale web services
 ! [wip]   Deeper reverse engineering of browser-side VMs & fingerprinting
 ! [wip]   Rust tooling for protocol & protection analysis
 - [next]  Public write-ups (HTB, reverse engineering notes)
