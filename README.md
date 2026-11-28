@@ -149,7 +149,7 @@ I like understanding what sits between a browser and a server: obfuscated JavaSc
 
 <div align="center">
 
-<a href="https://github.com/Cornedru"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;<a href="https://twitter.com/cornedru"><img src="https://img.shields.io/badge/X-0B1220?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://github.com/Cornedru"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
